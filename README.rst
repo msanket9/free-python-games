@@ -31,12 +31,6 @@ feature or behavior! You never know which games students will engage with best.
 
 Testimonials
 ------------
-
-*"Free Python Games inspired and introduced a new hobby to our son. Thank you so
-much for exposing him to coding. He is having so much fun!"*
-
--- Mary Lai, Parent
-
 *"Free Python Games are great because they really engage students and let them
 learn at their own pace."*
 
