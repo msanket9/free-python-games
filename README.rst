@@ -36,11 +36,6 @@ learn at their own pace."*
 
 -- Rick Schertle, Teacher, Steindorf STEAM School
 
-*"Free Python Games combines play and learning in a flexible environment that
-reduces the stress of a difficult topic like programming."*
-
--- Brett Bymaster, Youth Pastor, The River Church Community
-
 Features
 --------
 
