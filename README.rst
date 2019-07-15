@@ -29,6 +29,12 @@ with a list of exercises to work through with students. Creativity and
 flexibility is important. There is no right or wrong way to implement a new
 feature or behavior! You never know which games students will engage with best.
 
+Testimonials
+
+"I love Free Python Games because the games are fun and they're easy to understand and change. I like making my own games now."
+
+-- Luke Martin, Student
+
 Features
 --------
 
