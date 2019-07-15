@@ -29,9 +29,6 @@ with a list of exercises to work through with students. Creativity and
 flexibility is important. There is no right or wrong way to implement a new
 feature or behavior! You never know which games students will engage with best.
 
-.. _`Free Python Games`: http://www.grantjenks.com/docs/freegames/
-
-
 Testimonials
 ------------
 
