@@ -52,12 +52,6 @@ reduces the stress of a difficult topic like programming."*
 
 -- Brett Bymaster, Youth Pastor, The River Church Community
 
-*"Free Python Games is great for students, is highly organized and flexible,
-and seeks to unleash inquiry and understanding."*
-
--- Terri Furton, Principal, Downtown College Prep
-
-
 Features
 --------
 
