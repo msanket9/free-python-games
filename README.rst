@@ -32,11 +32,6 @@ feature or behavior! You never know which games students will engage with best.
 Testimonials
 ------------
 
-*"I love Free Python Games because the games are fun and they're easy to
-understand and change. I like making my own games now."*
-
--- Luke Martin, Student
-
 *"Free Python Games inspired and introduced a new hobby to our son. Thank you so
 much for exposing him to coding. He is having so much fun!"*
 
